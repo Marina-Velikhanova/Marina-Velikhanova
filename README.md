@@ -15,4 +15,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-161571?style=for-the-badge&logo=telegram)](https://t.me/velikiykhan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161571?style=for-the-badge&logo=linkedin)](linkedin.com/in/marina-velikhanova-152628234)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161571?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marina-velikhanova-152628234)
