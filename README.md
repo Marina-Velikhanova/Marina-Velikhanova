@@ -13,6 +13,6 @@
 ![Perfect_pixel](https://img.shields.io/badge/-Perfect_Pixel-161571?style=for-the-badge&logo=Perfect_pixel)
 
 
-Follow me
-
-
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-161571?style=for-the-badge&logo=telegram)](https://t.me/velikiykhan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161571?style=for-the-badge&logo=linkedin)](linkedin.com/in/марина-велиханова-152628234)
